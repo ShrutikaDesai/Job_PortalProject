@@ -36,5 +36,34 @@ This portal enables job providers to easily post job openings, while job seekers
 To get started with the project locally:
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/online-job-portal.git 
+   - First, clone the repository to your local machine using the following command:
+     ```bash
+     git clone https://github.com/ShrutikaDesai/Job_PortalProject.git
+     ```
+
+2. **Navigate to the project directory**:
+   - Change into the project directory by running:
+     ```bash
+     cd job-portal
+     ```
+
+3. **Install dependencies**:
+   - Install the required project dependencies using npm:
+     ```bash
+     npm install
+     ```
+
+4. **Start the development server**:
+   - Once the dependencies are installed, you can start the development server:
+     ```bash
+     npm start
+     ```
+
+   - This will start the application, and you can view it in your browser by navigating to `http://localhost:3000`.
+
+## Technologies Used
+
+- React.js
+- Real-time filtering technology
+- Chatbot integration
+
